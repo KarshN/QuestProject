@@ -3,7 +3,7 @@ Code for an AR text-translating device which is powered by a Raspberry Pi
 
 (The final program is overlay.py)
 
-#Overview
+# Overview
 
 For my Quest Project, which is a yearlong 8th grade passion project for my school, I decided to build, from scratch, an augmented reality (AR) device that translates text seen by the camera.
 
